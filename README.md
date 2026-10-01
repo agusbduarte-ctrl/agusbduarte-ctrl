@@ -1,16 +1,18 @@
-## Hi there 👋
+# Agustín Benjamín Duarte
 
-<!--
-**agusbduarte-ctrl/agusbduarte-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Tecnicatura Superior en Desarrollo de Software (Instituto Barranqueras, Chaco).
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, Java, SQL / MySQL
+- React, Node.js (Fastify), PostgreSQL, Prisma
+- Git, Docker, Linux
+
+## Proyecto destacado
+
+- [pedidos-carmar](https://github.com/agusbduarte-ctrl/pedidos-carmar) — Sistema interno de pedidos para supermercado (TypeScript)
+
+## Contacto
+
+- Email: agusbd2018@gmail.com
+- Ubicación: Puerto Vilelas, Chaco, Argentina
